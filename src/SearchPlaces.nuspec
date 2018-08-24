@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EntryValidator</id>
+    <version>1.0.1</version>
+    <title>Entry Validator</title>
+    <authors>Ahmed Aglan</authors>
+    <owners>MpsEgypt.com</owners>
+    <licenseUrl>https://github.com/AhmedAglan/EntryValidator/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/AhmedAglan/EntryValidator</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/AhmedAglan/EntryValidator/master/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Add validation behavior to xamarin forms entry</description>
+    <releaseNotes>Add Icon url</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Xamarin forms entry validator</tags>
+  </metadata>
+</package>
