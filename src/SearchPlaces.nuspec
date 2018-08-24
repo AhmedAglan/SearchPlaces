@@ -8,7 +8,7 @@
     <owners>MpsEgypt.com</owners>
     <licenseUrl>https://github.com/AhmedAglan/SearchPlaces/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/AhmedAglan/SearchPlaces</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/AhmedAglan/SearchPlaces/master/icon.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/AhmedAglan/SearchPlaces/master/src/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API</description>
     <releaseNotes>Release 1</releaseNotes>
