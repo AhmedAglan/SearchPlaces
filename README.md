@@ -1,6 +1,9 @@
 # SearchPlaces
 An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API
 
+## NuGet package
+https://www.nuget.org/packages/SearchPlaces/
+
 ## Obtaining API key
 Use the Google Developers Console to enable the 'Google Places API Web Service' and create a new API key.
 
